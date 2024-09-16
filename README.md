@@ -5,7 +5,7 @@
 <p align="center"><img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" height="300"/></p>
 <p>I'm a passionate web developer on a mission to build seamless and engaging digital experiences. With a solid foundation in front-end development and a keen eye for detail, I specialize in transforming complex concepts into clean, responsive, and user-friendly websites. I thrive on creating code that is not only functional but also brings designs to life, ensuring every project is both captivating and accessible.</p>
 <br/>
-<p>🌱 I’m currently learning NodeJS</p>
+<p>🌱 I’m currently learning <span> - </span> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></p>
 <h4 align="center">My Skill Set</p>
 <br/>
 <table align="center"><tr><td valign="top" width="33%">
